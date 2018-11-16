@@ -12,7 +12,7 @@
 ### Gaussian mixtures
 ### Expectation-maximization algorithm
 ### Singular value decomposition
-###Latent Dirichlet allocation
+### Latent Dirichlet allocation
 
 #### Linear Algebra
 #### Probability
